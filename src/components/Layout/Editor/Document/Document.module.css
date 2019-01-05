@@ -1,0 +1,9 @@
+.document{
+    padding: 5px 65px 5px 5px;
+    background: rgba(54,69,79,0.6) ;
+    color:white;
+    border-radius:5px;    
+    font-size:14px;
+    display:block;
+    margin-bottom: 10px;
+}

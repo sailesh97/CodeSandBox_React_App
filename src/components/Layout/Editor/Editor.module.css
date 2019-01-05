@@ -1,0 +1,17 @@
+.editor{
+    overflow-x: hidden;
+}
+
+.border{
+    border: 1px dashed gray;
+    padding:5px;
+    color:rgba(255,255,255,0.8);
+    background-color:#1C2022;
+    font-size: 12px;
+    text-align:center;
+    margin:15px;
+    cursor: pointer;
+}
+.b1{
+    cursor: pointer;
+}
